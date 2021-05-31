@@ -1,0 +1,6 @@
+C:\Users\nikon\RiderProjects\TOGInfiniteArrows\TOGInfiniteArrows\obj\Release\TOGInfiniteArrows.csprojResolveAssemblyReference.cache
+D:\Steam\steamapps\common\Tales Of Glory\TalesOfGlory_Data\StreamingAssets\Mods\TOGInfiniteArrows\TOGInfiniteArrows.dll
+D:\Steam\steamapps\common\Tales Of Glory\TalesOfGlory_Data\StreamingAssets\Mods\TOGInfiniteArrows\TOGInfiniteArrows.pdb
+C:\Users\nikon\RiderProjects\TOGInfiniteArrows\TOGInfiniteArrows\obj\Release\TOGInfiniteArrows.dll
+C:\Users\nikon\RiderProjects\TOGInfiniteArrows\TOGInfiniteArrows\obj\Release\TOGInfiniteArrows.pdb
+D:\Steam\steamapps\common\Tales Of Glory\TalesOfGlory_Data\StreamingAssets\Mods\TOGInfiniteArrows\script_assembly_desc.json

@@ -1,0 +1,7 @@
+﻿{
+  "Mod_Name": "TOGInfiniteArrows",
+  "Author": "lilhusky",
+  "dllName": "TOGInfiniteArrows",
+  "className": "TOGInfiniteArrowsPatch",
+  "startMethod": "Inject"
+}
